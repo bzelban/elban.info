@@ -1,0 +1,34 @@
+name: elban
+description: Personal Landing Page with Flutter-web(beta branch)
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.3
+  flutter_speed_dial: ^1.2.5
+  conditional_builder: ^1.0.2
+  provider: ^4.3.2+2
+  native_pdf_view: ^3.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/code.png
+    - assets/lorem-ipsum.pdf
+    - assets/icon.png
+    - assets/wiggle.gif 
