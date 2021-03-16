@@ -1,6 +1,4 @@
 # elban.info
 
 
-Not finished my own Mobile App Style Landing Page
-
-Made with FlutterWeb.
+Made with Legacy FlutterWeb when the web Feature is on dev branch.
